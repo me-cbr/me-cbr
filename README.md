@@ -1,7 +1,7 @@
 # Nice to meet you, you can call me Duda! 🌈
 
 ### 👤 About me:
-**👩‍💻 Software Engineer Studant at Universidade de Vassouras.<br>💻 Almost an Full Stack Developer! ![alt text](circular_progress_indicator.gif)<br>**
+**👩‍💻 Software Engineer Studant at Universidade de Vassouras.<br>💻 Almost an Full Stack Developer! ![ ](<circular_progress_indicator (1) (1).gif>)<br>**
 
 
 
