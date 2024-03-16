@@ -3,7 +3,7 @@
 ### 👤 About me:
 **👩‍💻 Software Engineer Studant at Universidade de Vassouras.<br>💻 I Work as Full Stack Developer! ![alt text](img/loading.gif)<br>**
 
-
+#
 
 ### 🔧 Skills: 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -16,16 +16,16 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+#
 
 ### ⬆ Status:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=me-cbr&theme=radical&hide_border=false) <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=me-cbr&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br>
 ![](https://github-readme-stats.vercel.app/api?username=me-cbr&theme=radical&hide_border=true) <br>
 
+#
 
 ### 📩 Contact me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mecoelho_/)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mecoelhodev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-coelho-barbosa-rocha-9486a7267/)
-
-
