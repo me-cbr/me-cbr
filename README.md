@@ -18,7 +18,7 @@
 
 #
 
-### ⬆ Status:
+### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=me-cbr&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=me-cbr&theme=radical&hide_border=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=me-cbr&theme=radical&hide_border=true)
@@ -27,6 +27,6 @@
 #
 
 ### 📩 Contact me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mecoelho_/)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mecoelhodev@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mecoelho_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-coelho-barbosa-rocha-9486a7267/)
