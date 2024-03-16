@@ -1,7 +1,7 @@
 # Nice to meet you, you can call me Duda! 🌈
 
 ### 👤 About me:
-**👩‍💻 Software Engineer Studant at Universidade de Vassouras.<br>💻 Almost an Full Stack Developer! ![img](https://raw.githubusercontent.com/Marvel999/Android-Loading-Animation/master/LoadingAnimation/src/main/res/drawable/loading_anim.gif)<br>**
+**👩‍💻 Software Engineer Studant at Universidade de Vassouras.<br>💻 Almost an Full Stack Developer! ![img](https://raw.githubusercontent.com/Codelessly/FlutterLoadingGIFs/master/packages/circular_progress_indicator.gif)<br>**
 
 
 
