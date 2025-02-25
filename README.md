@@ -1,4 +1,4 @@
-# Nice to meet you, you can call me Duda! 🌈
+# Nice to meet you, you can call me Maria! 🌈
 
 ### 👤 About me:
 **👩‍💻 Software Engineer Studant at Universidade de Vassouras.<br>💻 I Work as Full Stack Developer!<br>**
@@ -15,6 +15,11 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+
 
 #
 
