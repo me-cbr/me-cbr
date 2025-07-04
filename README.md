@@ -1,7 +1,7 @@
 # Nice to meet you, you can call me Maria! 🌈
 
 ### 👤 About me:
-**👩‍💻 Software Engineer Studant at Universidade de Vassouras.<br>💻 I Work as Full Stack Developer!<br>**
+**👩‍💻 Software Engineer Studant at Universidade de Vassouras.<br>💻 Full Stack Developer!<br>**
 
 #
 
